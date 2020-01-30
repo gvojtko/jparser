@@ -18,5 +18,5 @@ installation
 
 require jparser as a dependency for your project:
 ```
-composer require "shopsys/jparser 0.1"
+composer require "crealab/jparser 0.1"
 ```
